@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 - Active candidate for AI/Machine Learning Engineer roles where I can contribute to building cutting-edge AI solutions.
 - Passionate about bringing the power of Large Language Models into real-world products.
 
-🌱 I’m currently learning<br>Deep diving into RAG pipelines, MCP, and advanced Agentic Frameworks.
+🌱 I’m currently learning
+- Deep diving into RAG pipelines, MCP, and advanced Agentic Frameworks.
 - Mastering A2A (Agent-to-Agent) interactions and scaling LLM-based applications.
 - Refining my English communication to work in international or fast-paced tech environments.
 
@@ -53,6 +54,6 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Truong99zvc&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile views counter](https://komarev.com/ghpvc/?username=Truong99zvc&&style=flat-square)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
