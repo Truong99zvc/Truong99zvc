@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ⚡ Fun fact I treat CPU thermal management like a boss fight in League of Legends – everything must be perfectly optimized!
 
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/phuctruong.1304) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tpt134) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tpt044) 
 
 # 💻 Tech Stack:
