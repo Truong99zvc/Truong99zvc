@@ -1,84 +1,63 @@
-## Hi there 👋
+<p align="center">
+	<svg width="52" height="52" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+		<circle cx="20" cy="20" r="17" fill="none" stroke="#1c1a14" stroke-width="1.5"/>
+		<text x="20" y="25" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="600" fill="#1c1a14" letter-spacing="-0.5">TT</text>
+	</svg>
+</p>
 
-<!--
-**Truong99zvc/Truong99zvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Truong Truong Phuc</h1>
+<p align="center"><b>AI Engineer / Machine Learning Engineer</b> &nbsp;·&nbsp; Ho Chi Minh City</p>
 
-Here are some ideas to get you started:
+<p align="center">
+	<a href="https://linkedin.com/in/tpt134">
+		<img src="https://img.shields.io/badge/LinkedIn-truong--truong-ffd139?style=flat-square&logo=linkedin&logoColor=ffd139&labelColor=1c1a14&color=1c1a14">
+	</a>
+	&nbsp;
+	<a href="https://github.com/Truong99zvc">
+		<img src="https://img.shields.io/badge/GitHub-Truong99zvc-ffd139?style=flat-square&logo=github&logoColor=ffd139&labelColor=1c1a14&color=1c1a14">
+	</a>
+	&nbsp;
+	<a href="mailto:tpt044">
+		<img src="https://img.shields.io/badge/Email-tpt044-ffd139?style=flat-square&logo=gmail&logoColor=ffd139&labelColor=1c1a14&color=1c1a14">
+	</a>
+    &nbsp;
+    <a href="https://truong99zvc.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Truong99zvc.github.io-ffd139?style=flat-square&logo=githubpages&logoColor=ffd139&labelColor=1c1a14&color=1c1a14">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-🔭 I’m currently working on
-- LLM & RAG Projects: Developing intelligent systems utilizing Retrieval-Augmented Generation to handle complex data queries.
-- AI Agents: Experimenting with autonomous agents and agentic workflows to automate multi-step tasks.
+**Focus:** `AI Engineering` - `LLM Applications` - `RAG Pipelines` - `Agentic Systems` - `Computer Vision` - `NLP`
 
-👯 I’m looking to collaborate on
-- Open-source projects involving Agent-to-Agent (A2A) communication and Model Context Protocol (MCP) integration.
-- Collaborative AI research or building production-ready GenAI applications.
+I build practical AI systems, with a focus on retrieval, automation, and product-ready workflows. Most of my recent work is centered on LLM-based applications, agent orchestration, and experiments that move toward real deployment instead of just demos.
 
-🤝 I’m looking for an Internship/Fresher AI Engineer position
-- Active candidate for AI/Machine Learning Engineer roles where I can contribute to building cutting-edge AI solutions.
-- Passionate about bringing the power of Large Language Models into real-world products.
+I like working from first principles: understand the problem, shape the data flow, test the bottleneck, then ship the smallest durable solution. That usually means cleaner pipelines, better prompts, more reliable automation, and fewer unnecessary moving parts.
 
-🌱 I’m currently learning
-- Deep diving into RAG pipelines, MCP, and advanced Agentic Frameworks.
-- Mastering A2A (Agent-to-Agent) interactions and scaling LLM-based applications.
-- Refining my English communication to work in international or fast-paced tech environments.
+I’m currently looking for opportunities where I can contribute as an AI Engineer or fresher/intern in ML-focused teams, and I’m especially interested in projects that combine agents, search, and production systems.
 
-💬 Ask me about
-- AI Core: Machine Learning (ML), Deep Learning (DL).
-- Specializations: Computer Vision (CV), Natural Language Processing (NLP), and Large Language Models (LLM).
-- System Optimization: Tuning hardware performance for training and inference (ThrottleStop & WSL2).
+### What I’m working on
 
-⚡ Fun fact I treat CPU thermal management like a boss fight in League of Legends – everything must be perfectly optimized!
+- LLM and RAG projects for question answering and knowledge retrieval.
+- AI agents and agentic workflows that automate multi-step tasks.
+- CV and NLP experiments that connect research ideas with usable applications.
+- Integrations around MCP and A2A-style collaboration between tools and agents.
 
+### Projects worth checking
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/phuctruong.1304) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tpt134) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tpt044) 
+- `ai/` and `local-ai-transcript-app/` for AI-assisted workflows and transcription-related tooling.
+- `chatbot-rag/` for retrieval-augmented chatbot work.
+- `AI-Agent/` and `ai-news-aggregator/` for agent and automation experiments.
+- `vision-financial-agent/` for applied CV/AI exploration.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+### Stack
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) 
+`Python` - `JavaScript` - `TypeScript` - `C++` - `PyTorch` - `TensorFlow` - `scikit-learn` - `OpenCV` - `NumPy` - `Pandas` - `Streamlit` - `Flask` - `MySQL` - `Docker` - `Git` - `LaTeX` - `Markdown`
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+### Socials
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
+LinkedIn: https://linkedin.com/in/tpt134
 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
+GitHub: https://github.com/Truong99zvc
 
+Email: mailto:tpt044
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Truong99zvc&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-![Profile views counter](https://komarev.com/ghpvc/?username=Truong99zvc&&style=flat-square)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> "Great systems are usually the result of careful constraints, not more complexity."
