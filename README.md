@@ -17,11 +17,11 @@
 		<img src="https://img.shields.io/badge/GitHub-Truong99zvc-ffd139?style=flat-square&logo=github&logoColor=ffd139&labelColor=1c1a14&color=1c1a14">
 	</a>
 	&nbsp;
-	<a href="mailto:tpt044">
+	<a href="mailto:tpt044@gmail.com">
 		<img src="https://img.shields.io/badge/Email-tpt044-ffd139?style=flat-square&logo=gmail&logoColor=ffd139&labelColor=1c1a14&color=1c1a14">
 	</a>
     &nbsp;
-    <a href="https://truong99zvc.github.io">
+    <a href="https://Truong99zvc.github.io">
     <img src="https://img.shields.io/badge/Portfolio-Truong99zvc.github.io-ffd139?style=flat-square&logo=githubpages&logoColor=ffd139&labelColor=1c1a14&color=1c1a14">
   </a>
 </p>
@@ -43,22 +43,16 @@ I’m currently looking for opportunities where I can contribute as an AI Engine
 
 ### Projects worth checking
 
-- `ai/` and `local-ai-transcript-app/` for AI-assisted workflows and transcription-related tooling.
+- `ai/` and `ai-transcript-app/` for AI-assisted workflows and transcription-related tooling.
 - `chatbot-rag/` for retrieval-augmented chatbot work.
-- `AI-Agent/` and `ai-news-aggregator/` for agent and automation experiments.
-- `vision-financial-agent/` for applied CV/AI exploration.
+- `ai-newsletter-agent/` for agent and automation experiments.
+- `ai-uxui-tester/` for applied VLM exploration.
 
 ### Stack
 
-`Python` - `JavaScript` - `TypeScript` - `C++` - `PyTorch` - `TensorFlow` - `scikit-learn` - `OpenCV` - `NumPy` - `Pandas` - `Streamlit` - `Flask` - `MySQL` - `Docker` - `Git` - `LaTeX` - `Markdown`
+`Python` - `JavaScript` - `TypeScript` - `C++` - `PyTorch` - `TensorFlow` - `LangChain` - `LangGraph` - `MCP` - `scikit-learn` - `OpenCV` - `NumPy` - `Pandas` - `Streamlit` - `Flask` - `FastAPI` - `MySQL` - `Docker` - `Git`
 
-### Socials
 
-LinkedIn: https://linkedin.com/in/tpt134
-
-GitHub: https://github.com/Truong99zvc
-
-Email: mailto:tpt044
 
 > "Great systems are usually the result of careful constraints, not more complexity."
 <div align="center">
