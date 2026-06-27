@@ -61,3 +61,7 @@ GitHub: https://github.com/Truong99zvc
 Email: mailto:tpt044
 
 > "Great systems are usually the result of careful constraints, not more complexity."
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer" />
+</div>
